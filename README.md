@@ -9,5 +9,5 @@ LOGS
 ASSESSMENT
 * Algorithm and preprocessing steps works and can be improved with more resources
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT <br>
 ![Rein](https://i.ibb.co/30q5Hr5/test-output.jpg)
