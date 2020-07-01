@@ -10,4 +10,4 @@ ASSESSMENT
 * Algorithm and preprocessing steps works and can be improved with more resources
 
 SAMPLE OUTPUT
-![](https://ibb.co/NLPgzVg)
+![Rein](https://i.ibb.co/30q5Hr5/test-output.jpg)
